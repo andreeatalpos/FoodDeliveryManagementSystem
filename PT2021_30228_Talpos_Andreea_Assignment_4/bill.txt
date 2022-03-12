@@ -1,0 +1,9 @@
+OrderID: 1
+Date: Thu May 27 10:41:44 EEST 2021
+ClientID: 1
+
+Price:140
+Products: [Title: Sour Cream Chocolate Cake , price:52, rating:0.0, calories:7576, proteins:421, fats:637, sodium:6477
+, Title: Sour Cream Chocolate Cake , price:52, rating:0.0, calories:7576, proteins:421, fats:637, sodium:6477
+, Title: Pecan-Bourbon Pie , price:36, rating:0.0, calories:4889, proteins:49, fats:209, sodium:2707
+]
